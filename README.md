@@ -1,5 +1,5 @@
 # customer-trends-data-analysis-SQL-Python-PowerBI
-1. Project Title  “Customer Behavior &amp; Purchase Pattern Analysis for E-commerce”
+#1. Project Title  “Customer Behavior &amp; Purchase Pattern Analysis for E-commerce”
 
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
