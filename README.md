@@ -16,4 +16,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
 # Tools Used/Skills
-Python (Pandas, Matplotlib, Seaborn), SQL, Power BI, Excel
+Python, SQL, Power BI, Excel
